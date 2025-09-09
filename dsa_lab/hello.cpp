@@ -7,5 +7,6 @@
 using namespace std;
 int main() {
     cout << "Hello world" << endl;
+    cout << "Now this file is connected to github" << endl;
     return 0;
 }
